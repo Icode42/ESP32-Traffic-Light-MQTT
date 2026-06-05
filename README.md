@@ -71,6 +71,9 @@ Built and simulated in [Wokwi](https://wokwi.com). The `diagram.json` file in th
 **Serial monitor output — MQTT connection established, traffic cycle running, "Do Not Walk" state**
 ![Serial Monitor](iot_screenshot3.png)
 
+**Crosswalk countdown active — LCD displaying "== Walk! ==" with 13 seconds remaining, serial monitor counting down**
+![Crosswalk Countdown](iot_screenshot4.png)
+
 ---
 
 ## How It Works
