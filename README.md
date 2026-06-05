@@ -14,9 +14,9 @@ This project implements a fully functional traffic light controller simulating a
 
 ## Background
 
-Built as part of a college IoT course (CEIS 114) by a veteran and cybersecurity professional with a background in DoD telecommunications and low-voltage systems. The project was developed and simulated in Wokwi using an ESP32 DevKit-C v4.
+Built as part of a college IoT course (CEIS 114) by a veteran and cybersecurity professional with a background in DoD telecommunications and low-voltage systems.
 
-This project is a combination of coursework, personal knowledge of embedded systems and networking, and independent research. The code and circuit design were developed by the author with AI assistance (Claude by Anthropic) used for documentation purposes.
+The source code and circuit design were provided as part of the course curriculum. The author's work involved wiring the circuit in the Wokwi simulation environment, verifying all connections matched the schematic, testing functionality, and documenting the results. This README was prepared with AI assistance (Claude by Anthropic) for portfolio documentation purposes.
 
 ---
 
